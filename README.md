@@ -19,6 +19,7 @@
 
 <a href="mailto:biysq6@nottingham.edu.cn"><img src="https://img.shields.io/badge/email-biysq6%40nottingham.edu.cn-A78BFA?style=flat-square" alt="Email"></a>
 <a href="https://rbm.online"><img src="https://img.shields.io/badge/live-rbm.online-22D3EE?style=flat-square&logo=googlechrome&logoColor=white" alt="rbm.online"></a>
+<img src="https://img.shields.io/github/followers/Sherry-Qiuu?style=flat-square&label=followers&color=8B949E" alt="followers">
 <img src="https://komarev.com/ghpvc/?username=Sherry-Qiuu&label=visitors&color=A78BFA&style=flat-square" alt="visitors">
 
 </div>
@@ -66,8 +67,7 @@ const shihan = {
 
 <div align="center">
 
-<a href="https://github.com/Sherry-Qiuu"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Sherry-Qiuu&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=22D3EE&text_color=8B949E&rank_icon=github" alt="GitHub stats"></a>
-<a href="https://github.com/Sherry-Qiuu"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherry-Qiuu&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=8B949E&langs_count=8" alt="Top languages"></a>
+<a href="https://github.com/Sherry-Qiuu"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sherry-Qiuu&bg_color=00000000&color=A78BFA&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=Contributions%20over%20the%20last%20year" alt="Contribution graph"></a>
 
 <br>
 
