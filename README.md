@@ -17,8 +17,8 @@
 
 <br>
 
-<a href="mailto:biysq6@nottingham.edu.cn"><img src="https://img.shields.io/badge/email-biysq6%40nottingham.edu.cn-A78BFA?style=flat-square" alt="Email"></a>
-<a href="https://rbm.online"><img src="https://img.shields.io/badge/live-rbm.online-22D3EE?style=flat-square&logo=googlechrome&logoColor=white" alt="rbm.online"></a>
+<a href="mailto:19558222390@163.com"><img src="https://img.shields.io/badge/email-19558222390%40163.com-A78BFA?style=flat-square" alt="Email"></a>
+<a href="https://rbem.online"><img src="https://img.shields.io/badge/live-rbem.online-22D3EE?style=flat-square&logo=googlechrome&logoColor=white" alt="rbem.online"></a>
 <img src="https://img.shields.io/github/followers/Sherry-Qiuu?style=flat-square&label=followers&color=8B949E" alt="followers">
 <img src="https://komarev.com/ghpvc/?username=Sherry-Qiuu&label=visitors&color=A78BFA&style=flat-square" alt="visitors">
 
@@ -56,7 +56,7 @@ const shihan = {
 
 | Project | What it is |
 | :-- | :-- |
-| **[RoboEmail](https://github.com/Sherry-Qiuu/RoboEmail)**<br>`TypeScript` · `React 19` · `Hono`<br>[live ↗](https://rbm.online) | Academic email, written properly. Pick a recipient, a formality, a purpose — get British academic English back, with the Chinese reasoning beside every line. Not a translator; a co-writer for the 576 people you might need to address. |
+| **[RoboEmail](https://github.com/Sherry-Qiuu/RoboEmail)**<br>`TypeScript` · `React 19` · `Hono`<br>[live ↗](https://rbem.online) | Academic email, written properly. Pick a recipient, a formality, a purpose — get British academic English back, with the Chinese reasoning beside every line. Not a translator; a co-writer for the 576 people you might need to address. |
 | **[edge-fluent-appearance](https://github.com/Sherry-Qiuu/edge-fluent-appearance)**<br>`CSS` · `Design system` | An Edge-inspired Fluent appearance layer for any page: 3 modes, 5 color themes, 5 image themes, one script. |
 | **[web-minesweeper](https://github.com/Sherry-Qiuu/web-minesweeper)**<br>`JavaScript` · `Canvas`<br>[play ↗](https://minesweeper-arena-34333.app.workbuddy.host/) | 扫雷竞速 — minesweeper at speed, where the timer is the whole point. |
 | **[c-learn](https://github.com/Sherry-Qiuu/c-learn)**<br>`C` | A fast C ramp-up for people arriving from C++: 12 assert-checked exercises and 2 multi-file projects, aimed at STM32. |
