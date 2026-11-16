@@ -17,10 +17,12 @@
 
 <br>
 
+<br>
+
 <a href="mailto:19558222390@163.com"><img src="https://img.shields.io/badge/email-19558222390%40163.com-A78BFA?style=flat-square" alt="Email"></a>
 <a href="https://rbem.online"><img src="https://img.shields.io/badge/live-rbem.online-22D3EE?style=flat-square&logo=googlechrome&logoColor=white" alt="rbem.online"></a>
 <img src="https://img.shields.io/github/followers/Sherry-Qiuu?style=flat-square&label=followers&color=8B949E" alt="followers">
-<img src="https://komarev.com/ghpvc/?username=Sherry-Qiuu&label=visitors&color=A78BFA&style=flat-square" alt="visitors">
+<img src="https://komarev.com/ghpvc/?username=Sherry-Qiuu&label=visitors&color=8B949E&style=flat-square" alt="visitors">
 
 </div>
 
