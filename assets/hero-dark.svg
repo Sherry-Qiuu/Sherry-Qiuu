@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Shihan QIU — University of Nottingham Ningbo China">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0E17"/>
+      <stop offset="55%" stop-color="#101728"/>
+      <stop offset="100%" stop-color="#0B111F"/>
+    </linearGradient>
+    <radialGradient id="blobA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C5CFF" stop-opacity="0.50"/>
+      <stop offset="100%" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C5CFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+
+  <circle cx="170" cy="30" r="230" fill="url(#blobA)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 26 18; 0 0" dur="17s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="260" r="250" fill="url(#blobB)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -22 -16; 0 0" dur="21s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="1152" y="50" text-anchor="end" font-family="'Segoe UI', Inter, system-ui, -apple-system, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#5C6478">TYPESCRIPT · PYTHON · C</text>
+
+  <text x="600" y="134" text-anchor="middle" font-family="'Segoe UI', Inter, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="1" fill="url(#name)">Shihan QIU</text>
+
+  <rect x="540" y="160" width="120" height="2" rx="1" fill="url(#rule)"/>
+
+  <text x="600" y="200" text-anchor="middle" font-family="'Segoe UI', Inter, system-ui, -apple-system, Arial, sans-serif" font-size="13" letter-spacing="4.2" fill="#8B93A7">UNIVERSITY OF NOTTINGHAM NINGBO CHINA</text>
+
+  <text x="48" y="252" font-family="'Fira Code', 'Cascadia Code', ui-monospace, Consolas, monospace" font-size="13" fill="#A78BFA" opacity="0.85">~/ trying my best</text>
+  <circle cx="30" cy="247" r="4" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
